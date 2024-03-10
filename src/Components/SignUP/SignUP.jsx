@@ -74,7 +74,7 @@ const SignUP = () => {
               <input type="submit" value="SIGN UP" className="btn text-white btn-error" />
             </div>
           </form>
-          <h3 className="text-center font-bold py-3">Alredy Have An Account? <Link className=" text-orange-600 " to="/login">Login</Link></h3>
+          <h3 className="text-center font-bold py-3">Alredy Have An Account?<Link className=" text-orange-600 " to="/login">Login</Link></h3>
         </div>
       </div>
     </div>
